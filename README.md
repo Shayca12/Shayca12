@@ -12,7 +12,8 @@ environments, and cloud infrastructure — and I care about how systems actually
 
 | Project | Description | Stack |
 |---|---|---|
-| [SpotiShay](https://github.com/Shayca12/spotishay) | Full-stack music streaming app with end-to-end DevOps pipeline | Jenkins · Docker · K8s · Helm · ArgoCD · Prometheus/Grafana |
+| [SpotiShay App](https://github.com/Shayca12/spotishay-app) | Full-stack music streaming app with end-to-end DevOps pipeline | Jenkins · Docker · K8s · Helm · ArgoCD · Prometheus/Grafana |
+| [SpotiShay GitOps](https://github.com/Shayca12/spotishay-gitop) | GitOps repo — ArgoCD manifests, Helm values, full infra definitions | ArgoCD · Kubernetes · Helm · Prometheus · Grafana |
 | [Azure Multi-Tier Infra](https://github.com/Shayca12/azure-infra) | Modular Terraform infrastructure on Azure with Docker & cloud-init | Terraform · Azure · Docker · PostgreSQL |
 
 ---
